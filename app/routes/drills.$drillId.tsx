@@ -45,13 +45,13 @@ export default function Drill() {
   console.log(drillId);
 
   return (
-    <div className="flex flex-col p-4 gap-1 overflow-x-auto">
+    <div className="flex flex-col p-4 gap-1 overflow-scroll">
       <h1 className="flex items-center gap-1">
         <div className="pr-2">{drill.name}</div>
         <ClockIcon /> <div className="text-text/70">{drill.duration}m</div>
       </h1>
       <div>{drill.description}</div>
-      <video className="" src="/videos/goofyahhvideo.mp4" controls />
+      <video className="w-1/2" src="/videos/goofyahhvideo.mp4" controls />
     </div>
   );
 }
