@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+h1 {
+  @apply text-3xl
+}
+
+  body {
+    @apply min-h-screen
+  }
+
+  header {
+    grid-area: header;
+  }
+
+  .sidebar {
+    grid-area: sidebar;
+  }
+
+  .main {
+    grid-area: main;
+  }
+
+  .drills-layout-grid {
+    height: 100%;
+    display: grid;
+    grid-template-rows: 80px 1fr;
+    grid-template-columns: 275px 1fr;
+    grid-template-areas: 
+      "header header"
+      "sidebar main";
+  }
+}

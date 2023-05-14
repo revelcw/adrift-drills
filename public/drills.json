@@ -1,0 +1,107 @@
+{
+  "dribbling": {
+    "name": "Dribbling Drill",
+    "description": "Improve dribbling skills by navigating through cones.",
+    "duration": 10,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "dribbling"
+  },
+  "passing": {
+    "name": "Passing Drill",
+    "description": "Enhance passing accuracy and technique with a partner.",
+    "duration": 15,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "passing"
+  },
+  "shooting": {
+    "name": "Shooting Drill",
+    "description": "Practice shooting on target from various positions.",
+    "duration": 20,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "shooting"
+  },
+  "crossing": {
+    "name": "Crossing Drill",
+    "description": "Improve crossing accuracy by delivering balls into the box.",
+    "duration": 10,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "crossing"
+  },
+  "defensive": {
+    "name": "Defensive Drill",
+    "description": "Develop defensive skills such as marking and tackling.",
+    "duration": 15,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "defensive"
+  },
+  "juggling": {
+    "name": "Juggling Drill",
+    "description": "Enhance ball control and coordination by juggling the ball with different body parts.",
+    "duration": 10,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "juggling"
+  },
+  "one-on-one": {
+    "name": "One-on-One Drill",
+    "description": "Improve dribbling, decision-making, and attacking skills in a one-on-one situation.",
+    "duration": 15,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "one-on-one"
+  },
+  "heading": {
+    "name": "Heading Drill",
+    "description": "Practice heading the ball accurately and with power.",
+    "duration": 10,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "heading"
+  },
+  "speed-and-agility": {
+    "name": "Speed and Agility Drill",
+    "description": "Enhance speed, agility, and quickness with ladder drills and cone exercises.",
+    "duration": 20,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "speed-and-agility"
+  },
+  "small-sided-game": {
+    "name": "Small-Sided Game",
+    "description": "Engage in a small-sided game to improve teamwork, decision-making, and overall game understanding.",
+    "duration": 25,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "small-sided-game"
+  },
+  "agility-ladder": {
+    "name": "Agility Ladder Drill",
+    "description": "Improve footwork and coordination with an agility ladder.",
+    "duration": 10,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "agility-ladder"
+  },
+  "pass-and-move": {
+    "name": "Pass and Move Drill",
+    "description": "Enhance passing accuracy and movement off the ball.",
+    "duration": 15,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "pass-and-move"
+  },
+  "cone-dribbling": {
+    "name": "Cone Dribbling Drill",
+    "description": "Improve close ball control and dribbling skills around cones.",
+    "duration": 10,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "cone-dribbling"
+  },
+  "wall-passing": {
+    "name": "Wall Passing Drill",
+    "description": "Practice passing and receiving using a wall as a teammate.",
+    "duration": 10,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "wall-passing"
+  },
+  "speed-sprint": {
+    "name": "Speed Sprint Drill",
+    "description": "Improve acceleration and speed with short distance sprints.",
+    "duration": 10,
+    "video": "https://www.youtube.com/watch?v=owopzp436jM",
+    "slug": "speed-sprint"
+  }
+}
